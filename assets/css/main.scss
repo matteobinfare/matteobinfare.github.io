@@ -31,7 +31,7 @@ html {
   border-radius: 14px;
   padding: 0.95rem 1.05rem;
   margin: 0.95rem 0;
-  background: #ffffff;
+  background: #FCFBF8;
   box-shadow: 0 1px 2px rgba(0,0,0,0.05);
 }
 
@@ -137,7 +137,7 @@ details.paper-details p {
   border-radius: 14px;
   padding: 0.95rem 1.05rem;
   margin: 0.95rem 0;
-  background: #ffffff;
+  background: #FCFBF8;
   box-shadow: 0 1px 2px rgba(0,0,0,0.05);
 }
 
@@ -281,7 +281,7 @@ details.course-details[open] summary::after {
   width: 100%;
   border-collapse: collapse;
   font-size: 0.94rem;
-  background: #ffffff;
+  background: #FCFBF8;
 }
 
 .summary-table thead {
@@ -323,7 +323,63 @@ details.course-details[open] summary::after {
 }
 
 
+/* --- Navy page with off-white content card (after carolinaraffaelli.com) --- */
+html,
+body {
+  background-color: #0B1F3A;
+}
 
+/* Content card */
+#main {
+  max-width: 1150px;
+  margin: 2em auto 1em;
+  padding: 2.5em 3em;
+  background: #F7F5F0;
+  border-radius: 6px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.12);
+}
+
+@media (max-width: 700px) {
+  #main {
+    margin: 1em 0.75em;
+    padding: 1.5em 1.25em;
+  }
+}
+
+/* Top nav sits on the navy, so make it transparent with light text */
+.masthead,
+.masthead .greedy-nav {
+  background: transparent;
+  border-bottom: none;
+}
+
+.masthead .greedy-nav a.site-title,
+.masthead .greedy-nav .visible-links a {
+  color: #F7F5F0;
+}
+
+.masthead .greedy-nav a.site-title:hover,
+.masthead .greedy-nav .visible-links a:hover {
+  color: #ffffff;
+}
+
+.masthead .navicon,
+.masthead .navicon:before,
+.masthead .navicon:after {
+  background: #F7F5F0;   /* mobile menu icon */
+}
+
+/* Footer on the navy */
+.page__footer {
+  background: transparent;
+  border-top: none;
+  color: rgba(247, 245, 240, 0.75);
+}
+
+.page__footer a,
+.page__footer i {
+  color: rgba(247, 245, 240, 0.75) !important;
+}
 
 
 
