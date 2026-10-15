@@ -2,7 +2,7 @@
 layout: single
 title: "Data & Code"
 permalink: /data/
-author_profile: true
+author_profile: false
 ---
 
 <div class="paper-card">
