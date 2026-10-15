@@ -16,7 +16,7 @@ author_profile: true
     <summary>Abstract &amp; Links</summary>
     <p><strong>Abstract.</strong> We study the asset allocation and investment performance of U.S. private foundations that support the charitable sector. Large foundations generated positive risk-adjusted returns before 2008, driven by early access to private equity and venture capital funds, but have underperformed since. The median foundation underperforms by more than 100 basis points. Foundations with concentrated stock holdings achieve higher returns but assume more risk. Due to the constraints imposed by the 5% minimum spending rule and accommodating monetary policy, foundations increase risk-taking and reach for yield. Over time, a conservative asset allocation decreases real wealth, reducing charitable giving.</p>
     <p class="paper-links">
-            <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.70055">Journal</a>
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.70055"><i class="fas fa-book-open" aria-hidden="true"></i> Journal</a>
       <a href="#">Online Appendix</a>
     </p>
   </details>
@@ -36,8 +36,7 @@ author_profile: true
     <summary>Abstract &amp; Links</summary>
     <p><strong>Abstract.</strong> When firms have discretion in valuing their balance sheet debt, how do they make this valuation decision given its impact on firm value? Firms make extensive use of operating leases, but unlike other types of debt, their balance sheet value is set by the firm. Using novel information on operating leases, we examine firm behavior in valuing these leases. We find that 20% of firms report higher-than-expected rates, reflecting their cost of unsecured rather than collateralized borrowing. These firms have poor information quality, operate in competitive markets, and understate lease and debt ratios by 15%.</p>
     <p class="paper-links">
-      <a href="https://www.sciencedirect.com/science/article/pii/S0929119925000616?via%3Dihub">Journal</a>
-      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4057652">SSRN</a>
+      <a href="https://www.sciencedirect.com/science/article/pii/S0929119925000616?via%3Dihub"><i class="fas fa-book-open" aria-hidden="true"></i> Journal</a>
       <a href="#">ASC842 Data</a>
     </p>
   </details>
@@ -52,8 +51,7 @@ author_profile: true
     <summary>Abstract &amp; Links</summary>
     <p><strong>Abstract.</strong> We examine compensation for endowment Chief Investment Officers (CIOs) overseeing portfolios with significant allocations to alternatives. We find widespread use of bonuses and that large endowments with high alternative allocations hire CIOs with stronger backgrounds, pay them more, and have higher pay-for-performance sensitivity. We find weak evidence of a relationship between compensation and future performance. Our results align with contract theory predictions but differ from empirical findings on pension funds. Endowments pay CIOs more, rely more on bonuses, attract more experienced professionals, and have lower turnover than pensions. This suggests more effective talent management compared to politically influenced public pensions.</p>
     <p class="paper-links">
-      <a href="https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/paying-managers-of-complex-portfolios-evidence-on-compensation-and-performance-from-endowments/6139DAA74B041AA16A51D8CAA3BC9F16">Journal</a>
-            <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3504212">SSRN</a>
+      <a href="https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/paying-managers-of-complex-portfolios-evidence-on-compensation-and-performance-from-endowments/6139DAA74B041AA16A51D8CAA3BC9F16"><i class="fas fa-book-open" aria-hidden="true"></i> Journal</a>
     </p>
   </details>
 </div>
@@ -72,7 +70,7 @@ author_profile: true
     <summary>Abstract &amp; Links</summary>
     <p><strong>Abstract.</strong> We examine the links between human capital and endowment investing. Harnessing detailed information on university endowments, we find that higher asset allocations to alternative assets accompany higher levels of human capital in the endowment’s investment process. Moreover, high levels of human capital are linked to larger returns, even on a risk-adjusted basis. The improved investment outcomes arise because endowments (i) capture higher returns that can accompany alternative assets, (ii) select or have access to high performing managers, and (iii) minimize fees by accessing funds directly rather than through funds of funds. Our measures of human capital include expertise in alternatives on governing bodies, the presence of a chief investment officer, and the size of the investment staff. Finally, we conduct a novel survey of endowments and confirm that human capital is central in facilitating alternative investments.</p>
     <p class="paper-links">
-      <a href="https://academic.oup.com/rof/article-abstract/27/1/143/6550064?redirectedFrom=fulltext&login=true">Journal</a>
+      <a href="https://academic.oup.com/rof/article-abstract/27/1/143/6550064?redirectedFrom=fulltext&login=true"><i class="fas fa-book-open" aria-hidden="true"></i> Journal</a>
     </p>
   </details>
 </div>
