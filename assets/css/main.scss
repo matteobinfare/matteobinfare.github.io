@@ -116,7 +116,7 @@ details.paper-details p {
   display: inline-block;
   margin: 0.25rem 0.45rem 0 0;
   padding: 0.26rem 0.6rem;
-  border-radius: 999px;
+  border-radius: 5px;
   border: 1px solid rgba(11,58,110,0.18);
   text-decoration: none;
   font-weight: 800;
@@ -205,7 +205,7 @@ details.course-details[open] summary::after {
   display: inline-block;
   margin: 0.25rem 0.45rem 0 0;
   padding: 0.26rem 0.6rem;
-  border-radius: 999px;
+  border-radius: 5px;
   border: 1px solid rgba(11,58,110,0.18);
   text-decoration: none;
   font-weight: 800;
