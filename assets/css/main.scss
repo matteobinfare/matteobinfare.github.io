@@ -395,6 +395,13 @@ body {
   padding-inline-end: 0;
 }
 
+/* Pages without the sidebar: content spans the whole card */
+@media (min-width: 1024px) {
+  #main:not(:has(.sidebar)) .page {
+    float: none;
+    width: 100% !important;
+  }
+}
 
 
 
