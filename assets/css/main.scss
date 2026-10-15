@@ -381,6 +381,11 @@ body {
   color: rgba(247, 245, 240, 0.75) !important;
 }
 
+/* Use the full card width: drop the empty right column reserved for a TOC */
+.page {
+  padding-right: 0;
+  padding-inline-end: 0;
+}
 
 
 
