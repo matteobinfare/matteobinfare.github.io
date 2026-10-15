@@ -242,13 +242,21 @@ details.course-details[open] summary::after {
   font-weight: 700;
 }
 
-/* --- Author avatar size & shape (override Minimal Mistakes .u-photo) --- */
+/* --- Author avatar: larger, rounded corners --- */
 .sidebar .author__avatar .u-photo,
 .author__avatar .u-photo {
-  max-width: 160px;              /* adjust 150–180px to taste */
-  border-radius: 0 !important;   /* force square corners */
-  box-shadow: 0 1px 3px rgba(0,0,0,0.12);
-  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 12px !important;
+  border: none;
+  padding: 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+@media (min-width: 1024px) {
+  .sidebar .author__avatar .u-photo,
+  .author__avatar .u-photo {
+    width: 100%;
+    max-width: 230px;
+  }
 }
 
 /* --- Styled academic links (journals & universities) --- */
