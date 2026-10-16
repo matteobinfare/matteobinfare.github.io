@@ -9,3 +9,5 @@ main:
     url: /data/
   - title: "CV"
     url: /cv/
+  - title: "Other"
+    url: /other/
