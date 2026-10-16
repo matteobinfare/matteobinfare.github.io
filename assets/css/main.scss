@@ -471,7 +471,10 @@ body {
   }
 }
 
-
+/* Keep the sidebar at full opacity (no hover fade) */
+.sidebar {
+  opacity: 1 !important;
+}
 
 
 
