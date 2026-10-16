@@ -403,6 +403,74 @@ body {
   }
 }
 
+/* --- Other page: media mentions --- */
+.other-section {
+  margin-top: 0.5em;
+}
+
+.media-card {
+  padding: 0.4rem 1.4rem;
+}
+
+.media-year {
+  display: grid;
+  grid-template-columns: 4.5rem 1fr;
+  gap: 1rem;
+  padding: 0.9rem 0;
+  border-top: 1px solid rgba(0,0,0,0.07);
+}
+
+.media-year:first-child {
+  border-top: none;
+}
+
+.media-year-label {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 800;
+  font-size: 1.05rem;
+  color: #0b3a6e;
+  padding-top: 0.05rem;
+}
+
+.media-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.media-list li {
+  margin: 0 0 0.55rem 0;
+  font-size: 0.97rem;
+  line-height: 1.4;
+}
+
+.media-list li:last-child {
+  margin-bottom: 0;
+}
+
+.media-list a {
+  font-weight: 700;
+  color: #0b3a6e;
+  text-decoration: none;
+}
+
+.media-list a:hover {
+  text-decoration: underline;
+}
+
+.media-topic {
+  display: block;
+  font-size: 0.9rem;
+  color: rgba(0,0,0,0.6);
+}
+
+@media (max-width: 600px) {
+  .media-year {
+    grid-template-columns: 3.2rem 1fr;
+    gap: 0.6rem;
+  }
+}
+
 
 
 
